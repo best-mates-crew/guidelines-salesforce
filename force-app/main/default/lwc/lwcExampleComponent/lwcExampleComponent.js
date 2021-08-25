@@ -1,6 +1,6 @@
 import { LightningElement } from 'lwc';
 
-export default class LwcExampleComp extends LightningElement {
+export default class LwcExampleComponent extends LightningElement {
     // ================================================
     // PROPS:
     // ================================================
